@@ -1,6 +1,4 @@
-package assignment2.food;
 
-import assignment2.Caterpillar;
 
 
 public class IceCream extends FoodItem{
@@ -10,3 +8,4 @@ public class IceCream extends FoodItem{
 	}
 
 }
+
