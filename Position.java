@@ -1,6 +1,3 @@
-package assignment2;
-
-
 public class Position {
 	private int xCoord;
 	private int yCoord;
@@ -40,3 +37,4 @@ public class Position {
 		return "("+this.xCoord+","+this.yCoord+")";
 	}
 }
+
