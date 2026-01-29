@@ -1,7 +1,3 @@
-package assignment2;
-
-import java.util.EmptyStackException;
-
 public class MyStack<E> {
 	private SNode<E> head;	
 	private	int size; 	
@@ -87,3 +83,4 @@ public class MyStack<E> {
 	}
 
 }
+
