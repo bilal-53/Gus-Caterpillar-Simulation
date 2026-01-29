@@ -1,6 +1,4 @@
-package assignment2.food;
-
-import assignment2.Caterpillar;
+import Caterpillar;
 
 public class Cake extends FoodItem{
 	private int energyProvided;
@@ -18,3 +16,4 @@ public class Cake extends FoodItem{
 	}
 
 }
+
