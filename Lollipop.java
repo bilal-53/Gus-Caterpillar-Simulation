@@ -1,5 +1,4 @@
 
-import assignment2.Caterpillar;
 
 
 public class Lollipop extends FoodItem{
@@ -9,4 +8,5 @@ public class Lollipop extends FoodItem{
 	}
 
 }
+
 
