@@ -1,5 +1,3 @@
-package assignment2.food;
-
 import java.awt.Color;
 import assignment2.Caterpillar;
 
@@ -20,3 +18,4 @@ public class Fruit extends FoodItem {
 		c.eat(this);
 	}
 }
+
