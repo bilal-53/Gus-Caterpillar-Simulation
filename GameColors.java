@@ -1,4 +1,3 @@
-package assignment2;
 
 import java.awt.Color;
 
@@ -54,3 +53,4 @@ public class GameColors {
  }
  
 }
+
