@@ -1,5 +1,3 @@
-package assignment2.food;
-
 public enum FoodEnum {
     Fruit,
     Cake,
@@ -14,4 +12,5 @@ public enum FoodEnum {
         if (x < 0 || x > values.length) return null;
         return values[x];
     }
+
 }
