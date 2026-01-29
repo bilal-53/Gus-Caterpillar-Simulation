@@ -1,7 +1,6 @@
 import java.awt.Color;
 import java.util.Random;
 
-import assignment2.food.*;
 
 public class Caterpillar {
    // All the fields have been declared public for testing purposes
@@ -342,3 +341,4 @@ public class Caterpillar {
 }
 
 }
+
